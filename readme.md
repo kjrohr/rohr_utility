@@ -1,6 +1,6 @@
 ## rohr_karl_utility
 
-### A proprietary debugging utility for the Deployment of Web Applications class.
+A proprietary debugging utility for the Deployment of Web Applications class.
 
 ## Installation
 
