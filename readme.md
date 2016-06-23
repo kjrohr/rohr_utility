@@ -1,3 +1,4 @@
+[ ![codeship status for kjrohr/rohr_utility](https://codeship.com/projects/cc92dca0-1bc8-0134-222f-22fb94432a98/status?branch=master)](https://codeship.com/projects/159762)
 A proprietary debugging utility for the Deployment of Web Applications class.
 
 ## Installation
